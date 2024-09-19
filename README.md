@@ -3,16 +3,15 @@
 <h3 align="center"><font face="Arial">A passionate Full-Stack Developer, Python Enthusiast, and AI & Cloud Learner from India.</font></h3>
 
 <!-- GIF Image -->
-<img align="right" height="300" width="500" src="https://images.app.goo.gl/TEYNYn5n4CvAxh2cA" alt="Person typing GIF"/>
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding GIF"/>
 
 <!-- About Me Section -->
 <h3 align="left"><font size="+2" face="Verdana">About Me:</font></h3>
 
-- 🔭 I’m currently working on **Python, Django, and AI Projects**
+- 🔭 I’m currently working on **Python, Django, and front-end**
 - 🌱 I’m currently learning **Cloud Technologies and Artificial Intelligence**
 - 👯 I’m looking to collaborate on **Full-Stack Development Projects** and **Data Science Applications**
 - 💬 Ask me about **Backend Development, Frontend Technologies, Databases**
-- 📫 How to reach me: **[naveenkumarthodimela@gmail.com](mailto:naveenkumarthodimela@gmail.com)**
 
 ---
 
@@ -55,22 +54,6 @@
   <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="postman" title="postman" width="40" height="40"/>
 </p>
 
----
-
-<!-- Projects Section -->
-<h3 align="left"><font size="+2" face="Verdana">My Projects:</font></h3>
-
-### 1. [Real-Time Chatting Application](https://github.com/your-repo-link)
-- Developed using **Django** and **WebSocket** for real-time communication with **SQLite** for the database.
-- Technologies: **HTML, CSS, JavaScript** for the frontend.
-
-### 2. [Canteen Food Booking System](https://github.com/your-repo-link)
-- Created a system for colleges to manage food orders with features like **menu management** and **order tracking**.
-- Technologies: **Django, Python, MySQL, HTML, CSS, JavaScript**.
-
-### 3. [Job Portal](https://github.com/your-repo-link)
-- Designed a job portal with **ReactJS** for the frontend and **Django REST API** for the backend.
-- Focused on user-friendly job postings, applications, and recruitment processes.
 
 ---
 
