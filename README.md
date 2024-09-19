@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Naveen Kumar Thodimela</font></h1>
+<h1 align="center"><font face="Arial">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Welcome to My GitHub Profile</font></h1>
 <h3 align="center"><font face="Arial">A passionate Full-Stack Developer, Python Enthusiast, and AI & Cloud Learner from India.</font></h3>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
