@@ -21,10 +21,8 @@
 #### Programming Language Stack
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" title="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" title="javascript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/html/html-icon.svg" alt="html5" title="html5" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" alt="css3" title="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/go/go-icon.svg" alt="go" title="go" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </p>
 
 #### Backend Stack
@@ -38,8 +36,12 @@
 #### Frontend Stack
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" title="reactjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/html/html.png" alt="html5" title="html5" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" alt="css3" title="css3" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
 </p>
 
 #### Database Stack
@@ -51,7 +53,6 @@
 #### API Development Stack
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" title="django" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="postman" title="postman" width="40" height="40"/>
 </p>
 
 
