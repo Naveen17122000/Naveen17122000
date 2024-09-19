@@ -10,8 +10,7 @@ I’m Naveen Kumar Thodimela, a tech enthusiast with a Master’s Degree in Comp
 - 👯 I’m looking to collaborate on **Full-Stack Development Projects** and **Data Science Applications**
 - 💬 Ask me about **Backend Development, Frontend Technologies, Databases**
 
----
-<!-- Languages and Tools Section -->
+<!-- **Languages and Tools Section** -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 <!-- GIF Image -->
@@ -54,21 +53,10 @@ I’m Naveen Kumar Thodimela, a tech enthusiast with a Master’s Degree in Comp
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" title="django" width="40" height="40"/>
 </p>
 
-
----
-
-<!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
-
-- 💬 Ask me about **Full-Stack Development, Backend Technologies, or AI**
-- 📫 How to reach me: **[naveenkumarthodimela@gmail.com](mailto:naveenkumarthodimela@gmail.com)**
-
-
-<h3>Where to find me</h3>
+### 🔍 <span style="font-size: 1.5em;">Where to find me</span>
 <p><a href="https://github.com/Naveen17122000" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="www.linkedin.com/in/naveen-thodimala" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
----
 
 <!-- GitHub Stats -->
 ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveen17122000&show_icons=true&theme=radical)
