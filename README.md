@@ -1,72 +1,86 @@
-# 🌟 **Naveen Thodimela** 🌟  
-**Full-Stack Developer | Python Enthusiast | AI & Cloud Learner**
+<!-- Header Section -->
+<h1 align="center"><font face="Arial">Hi 👋, I'm Naveen Thodimela</font></h1>
+<h3 align="center"><font face="Arial">A passionate Full-Stack Developer, Python Enthusiast, and AI & Cloud Learner from India.</font></h3>
+
+<!-- GIF Image -->
+<img align="right" height="300" width="500" src="https://images.app.goo.gl/TEYNYn5n4CvAxh2cA" alt="Person typing GIF"/>
+
+<!-- About Me Section -->
+<h3 align="left"><font size="+2" face="Verdana">About Me:</font></h3>
+
+- 🔭 I’m currently working on **Python, Django, and AI Projects**
+- 🌱 I’m currently learning **Cloud Technologies and Artificial Intelligence**
+- 👯 I’m looking to collaborate on **Full-Stack Development Projects** and **Data Science Applications**
+- 💬 Ask me about **Backend Development, Frontend Technologies, Databases**
+- 📫 How to reach me: **[naveenkumarthodimela@gmail.com](mailto:naveenkumarthodimela@gmail.com)**
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Naveen17122000&color=blue)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/github/followers/Naveen17122000?label=Follow&style=social)](https://github.com/Naveen17122000)
+<!-- Languages and Tools Section -->
+<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
+
+#### Programming Language Stack
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" title="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" title="javascript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/html/html-icon.svg" alt="html5" title="html5" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" alt="css3" title="css3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/go/go-icon.svg" alt="go" title="go" width="40" height="40"/>
+</p>
+
+#### Backend Stack
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" title="django" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" title="mysql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" title="sqlite" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" title="nodejs" width="40" height="40"/>
+</p>
+
+#### Frontend Stack
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" title="reactjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/html/html.png" alt="html5" title="html5" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" alt="css3" title="css3" width="40" height="40"/>
+</p>
+
+#### Database Stack
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" title="mysql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" title="sqlite" width="40" height="40"/>
+</p>
+
+#### API Development Stack
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" title="django" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="postman" title="postman" width="40" height="40"/>
+</p>
 
 ---
 
-## 👨‍💻 **About Me**
+<!-- Projects Section -->
+<h3 align="left"><font size="+2" face="Verdana">My Projects:</font></h3>
 
-Hi there! I'm **Naveen**, a passionate **full-stack developer** with a strong foundation in both frontend and backend technologies. I’ve successfully built various projects, including **real-time chatting applications**, **canteen management systems**, and **job portals** using cutting-edge technologies.
+### 1. [Real-Time Chatting Application](https://github.com/your-repo-link)
+- Developed using **Django** and **WebSocket** for real-time communication with **SQLite** for the database.
+- Technologies: **HTML, CSS, JavaScript** for the frontend.
 
-I’m continuously expanding my expertise, currently focusing on **AI** and **Cloud Computing** to enhance my skill set and develop more robust, scalable solutions.
+### 2. [Canteen Food Booking System](https://github.com/your-repo-link)
+- Created a system for colleges to manage food orders with features like **menu management** and **order tracking**.
+- Technologies: **Django, Python, MySQL, HTML, CSS, JavaScript**.
 
----
-
-## 🔧 **Skills & Technologies**
-
-- **Languages**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-
-- **Backend**:  
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)  
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-
-- **Frontend**:  
-  ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-- **API Development**:  
-  ![DRF](https://img.shields.io/badge/Django%20REST-092E20?style=flat-square&logo=django&logoColor=white)  
-
-- **Currently Learning**:  
-  ![AI](https://img.shields.io/badge/AI-ffbe0b?style=flat-square&logo=artificial-intelligence&logoColor=black)  
-  ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+### 3. [Job Portal](https://github.com/your-repo-link)
+- Designed a job portal with **ReactJS** for the frontend and **Django REST API** for the backend.
+- Focused on user-friendly job postings, applications, and recruitment processes.
 
 ---
 
-## 🔥 **Projects**
+<!-- Contact Section -->
+<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 
-### 1. [**Real-Time Chatting Application**](https://github.com/your-repo-link)
-- Built using **Django** for the backend and **WebSocket** for real-time communication.
-- **Frontend**: HTML, CSS, JavaScript.
-
-### 2. [**Canteen Food Ordering System**](https://github.com/your-repo-link)
-- Designed for college canteens with features like **menu management** and **order tracking**.
-- **Tech Stack**: Django, MySQL, Python, HTML, CSS, JavaScript.
-
-### 3. [**Job Portal**](https://github.com/your-repo-link)
-- Created a job portal with **ReactJS** frontend and **Django REST API** for the backend.
-- Enhanced the user experience for job search and recruitment processes.
+- 💬 Ask me about **Full-Stack Development, Backend Technologies, or AI**
+- 📫 How to reach me: **[naveenkumarthodimela@gmail.com](mailto:naveenkumarthodimela@gmail.com)**
 
 ---
 
-## 🌱 **Currently Learning**
-
-- **Artificial Intelligence (AI)**: Delving into machine learning, neural networks, and predictive analytics.  
-- **Cloud Computing**: Exploring cloud infrastructure, deployments, and scalability using platforms like **AWS** and **Google Cloud**.
-
----
-
-## 📈 **GitHub Stats**
-
+<!-- GitHub Stats -->
 ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveen17122000&show_icons=true&theme=radical)
-
