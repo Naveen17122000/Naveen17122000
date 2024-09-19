@@ -1,8 +1,9 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Naveen Thodimela</font></h1>
+<h1 align="center"><font face="Arial">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Naveen Kumar Thodimela</font></h1>
 <h3 align="center"><font face="Arial">A passionate Full-Stack Developer, Python Enthusiast, and AI & Cloud Learner from India.</font></h3>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+I’m Naveen Kumar Thodimela, a tech enthusiast with a Master’s Degree in Computer Applications. I specialize in both frontend and backend development, with expertise in Java, Python, HTML, CSS, JavaScript, Django, and React JS. I’m passionate about building innovative solutions and continuously learning new technologies. Explore my projects to see how I apply my skills to solve real-world problems
 
 - 🔭 I’m currently working on **Python, Django, and front-end** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning **Cloud Technologies and Artificial Intelligence**
