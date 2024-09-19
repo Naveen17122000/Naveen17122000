@@ -1,22 +1,20 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Naveen Thodimela</font></h1>
+<h1 align="center"><font face="Arial">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Naveen Thodimela</font></h1>
 <h3 align="center"><font face="Arial">A passionate Full-Stack Developer, Python Enthusiast, and AI & Cloud Learner from India.</font></h3>
 
-<!-- GIF Image -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding GIF"/>
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-<!-- About Me Section -->
-<h3 align="left"><font size="+2" face="Verdana">About Me:</font></h3>
-
-- 🔭 I’m currently working on **Python, Django, and front-end**
+- 🔭 I’m currently working on **Python, Django, and front-end** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning **Cloud Technologies and Artificial Intelligence**
 - 👯 I’m looking to collaborate on **Full-Stack Development Projects** and **Data Science Applications**
 - 💬 Ask me about **Backend Development, Frontend Technologies, Databases**
 
 ---
-
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
+
+<!-- GIF Image -->
+<img align="right" height="400" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding GIF"/>
 
 #### Programming Language Stack
 <p align="left">
