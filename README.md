@@ -96,10 +96,10 @@
 
 | Certificate | Issuer | Year |
 |---|---|---|
-| Generative AI | Growth School | 2024 |
-| Python Full Stack Development | V Cube Software Solutions | 2023 |
-| Data Analytics Job Simulation | Tata Group | 2024 |
-| Cybersecurity Job Simulation | Deloitte Australia | 2024 |
+| Python Full Stack Development | V Cube Software Solutions | 2024 |
+| Generative AI | Growth School | 2025 |
+| Data Analytics Job Simulation | Tata Group | 2025 |
+| Cybersecurity Job Simulation | Deloitte Australia | 2025 |
 
 ---
 
