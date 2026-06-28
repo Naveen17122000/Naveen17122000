@@ -56,6 +56,16 @@
 ---
 
 ## 🚀 Featured Projects
+### 💼 [Service Request & Project Management Portal](https://github.com/Naveen17122000/service-app.git)
+> A full-stack portal for employees to raise and track service requests, with an admin approval workflow and role-based dashboards for Admin, Manager, and Employee users.
+  
+       -  10+ DRF API endpoints for the full request-and-approval workflow</li>
+       -  JWT authentication and RBAC enforced via Django permission classes</li>
+        - MySQL schema designed with ORM-based queries — filter(), Q objects, select_related()</li>
+        - Role-based dashboards distinguishing Admin, Manager, and Employee views</li>
+      
+     - **Tech:** Django REST · React.js · JWT · RBAC · MySQL
+    
 
 ### 💼 [Job Portal Web Application](https://github.com/Naveen17122000/job-portal)
 > Full-stack job platform with **React.js frontend**, **Django REST Framework backend**, **MySQL database**, and **JWT authentication**
