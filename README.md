@@ -1,128 +1,156 @@
-<div align="center">
+# 👋 Hi, I'm Naveen Kumar T
 
-# Hi, I'm Naveen Kumar T 👋
+### 💻 Full Stack Python Developer
 
-### Full Stack Python Developer · Django REST Framework · React.js · MySQL
+**Python · Django · Django REST Framework · React.js · MySQL**
 
-*Building secure, production-grade web applications with clean architecture*
+<p align="center">
+  <i>Building secure, scalable and production-ready web applications.</i>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Naveen17122000&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenthodimela/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveent6533@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naveen17122000)
-
-</div>
-
-<br/>
+---
 
 ## 🧑‍💻 About Me
 
-- 💼 **Software Developer** at VisionQuest Solutions Private Limited, Bangalore &nbsp;·&nbsp; Jul 2023 – Present
-- 🎓 **MCA**, JKC College, Guntur, Andhra Pradesh (2021 – 2023)
-- 🔧 **3 years** of experience building with Python, Django, Django REST Framework, React.js, and MySQL
-- 🔐 Hands-on with **JWT Authentication** and **Role-Based Access Control (RBAC)** for secure, multi-role systems
-- 🔁 Full **SDLC** experience — requirement analysis, development, testing, deployment, and maintenance — in Agile Scrum environments
-- 🏆 Certified in **Generative AI** — Growth School (2025)
+* 💼 **Software Developer** at VisionQuest Solutions Private Limited, Bangalore · Jul 2023 – Present
+* 🎓 **MCA**, JKC College, Guntur, Andhra Pradesh · 2021 – 2023
+* 🔧 **3 years** of experience with Python, Django, Django REST Framework, React.js, and MySQL
+* 🔐 Experienced in **JWT Authentication** and **Role-Based Access Control (RBAC)**
+* 🔁 Full **SDLC** experience across requirements, development, testing, deployment, and maintenance
+* 🤝 Experienced with **Agile Scrum**, sprint planning, code reviews, and production support
+* 🏆 **Generative AI Certified** — Growth School · 2025
 
-<br/>
+---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Backend**
-<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🐍 Backend
 
-**Frontend**
-<br/>
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django" alt="Python Django" />
+</p>
 
-**Tools**
-<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 
-<br/>
+### ⚛️ Frontend
 
-## 🚀 Featured Work
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" alt="React JavaScript HTML CSS" />
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Git GitHub Postman VS Code" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🏥 Hospital Management System
 
-Full-stack platform covering patient registration, appointment scheduling, doctor management, and billing.
+A full-stack healthcare management platform covering patient registration, appointment scheduling, doctor management, and billing.
 
-- REST APIs for patient registration, scheduling, doctor management & billing
-- JWT Authentication and RBAC for secure, multi-role access
-- MySQL schema design and CRUD via Django ORM, with optimized queries
-- Reusable React.js components integrated via Axios
+**Key Features**
 
-`Django REST` `React.js` `JWT` `RBAC` `MySQL`
+* 🔹 REST APIs for patient registration, scheduling, doctors, and billing
+* 🔐 JWT Authentication and RBAC
+* 🗄️ MySQL database design and Django ORM
+* ⚡ Optimized database queries
+* ⚛️ Reusable React.js components
+* 🔗 Axios-based frontend/backend integration
 
-</td>
-<td width="50%" valign="top">
+**Technologies**
+
+`Python` `Django` `Django REST Framework` `React.js` `MySQL` `JWT` `RBAC` `Axios`
+
+---
 
 ### 📊 CRM Application
 
-Customer, lead, and contact management platform with sales opportunity tracking.
+Customer relationship management platform for managing customers, leads, contacts, and sales opportunities.
 
-- RESTful APIs for customer, lead, contact & sales opportunity management
-- JWT & RBAC for Admin, Sales Manager, and Sales Executive roles
-- MySQL schema design and CRUD via Django ORM, optimized for performance
-- Dashboards for customer, sales pipeline, lead status & performance reporting
+**Key Features**
 
-`Django REST` `React.js` `JWT` `MySQL` `Axios`
+* 🔹 Customer and contact management
+* 🔹 Lead and opportunity tracking
+* 🔐 Role-based access for Admin, Sales Manager, and Sales Executive
+* 🗄️ MySQL schema design
+* ⚡ Django ORM query optimization
+* 📈 Sales pipeline and performance dashboards
 
-</td>
-</tr>
-</table>
+**Technologies**
 
-<br/>
+`Python` `Django REST Framework` `React.js` `MySQL` `JWT` `RBAC` `Axios`
 
-## 📊 GitHub Statistics
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveen17122000&show_icons=true&theme=tokyonight)
+## 📊 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen17122000&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen17122000&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Naveen17122000&theme=tokyonight)
-
-<br/>
-
+---
 
 ## 📜 Certifications
 
-| Certificate   | Issuer        | Year |
-|---------------|---------------|------|
-| Generative AI | Growth School | 2025 |
+| Certificate      | Issuer        | Year |
+| ---------------- | ------------- | ---: |
+| 🏆 Generative AI | Growth School | 2025 |
 
-<br/>
+---
 
 ## 💡 Currently
 
-- 🔨 Delivering feature work across the Hospital Management System and CRM at VisionQuest Solutions
-- 🧱 Sharpening REST API design, MySQL query optimization, and React–Django integration
-- 🤝 Working in Agile Scrum — sprint planning, code reviews, and production support
+* 🔨 Working on **Hospital Management System** and **CRM** features
+* 🧱 Improving **REST API architecture and database performance**
+* ⚛️ Strengthening **React.js + Django integration**
+* 🗄️ Improving **MySQL query optimization**
+* 🤝 Working in **Agile Scrum environments**
 
-<br/>
+---
 
-<div align="center">
+## 🌐 Connect With Me
 
-<img src="https://komarev.com/ghpvc/?username=Naveen17122000&color=blue&style=for-the-badge&label=PROFILE+VIEWS" />
+<p align="center">
 
-### *"Build systems that scale, write code that lasts."*
+<a href="https://github.com/Naveen17122000">
+  <img src="https://img.shields.io/badge/GitHub-Naveen17122000-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-</div>
+</p>
+
+---
+
+## ⚡ Developer Mindset
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Python+Developer;Django+%7C+DRF+%7C+React.js+%7C+MySQL;Building+Secure+REST+APIs;Designing+Scalable+Web+Applications;Always+Learning+%26+Improving" alt="Typing Animation" />
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="Footer" />
+
+</p>
+
+<p align="center">
+  <i>"Build systems that scale, write code that lasts."</i>
+</p>
