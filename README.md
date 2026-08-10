@@ -92,7 +92,7 @@ Customer, lead, and contact management platform with sales opportunity tracking.
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <div align="center">
 
