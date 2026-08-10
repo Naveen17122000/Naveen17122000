@@ -18,9 +18,9 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 **Software Developer** at VisionQuest Solutions Private Limited, Bangalore &nbsp;·&nbsp; Aug 2021 – Present
+- 💼 **Software Developer** at VisionQuest Solutions Private Limited, Bangalore &nbsp;·&nbsp; Jul 2023 – Present
 - 🎓 **MCA**, JKC College, Guntur, Andhra Pradesh (2021 – 2023)
-- 🔧 **5 years** of experience building with Python, Django, Django REST Framework, React.js, and MySQL
+- 🔧 **3 years** of experience building with Python, Django, Django REST Framework, React.js, and MySQL
 - 🔐 Hands-on with **JWT Authentication** and **Role-Based Access Control (RBAC)** for secure, multi-role systems
 - 🔁 Full **SDLC** experience — requirement analysis, development, testing, deployment, and maintenance — in Agile Scrum environments
 - 🏆 Certified in **Generative AI** — Growth School (2025)
