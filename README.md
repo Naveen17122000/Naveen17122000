@@ -92,19 +92,13 @@ Customer, lead, and contact management platform with sales opportunity tracking.
 
 <br/>
 
-## 📊 GitHub Status
+## 📊 GitHub Statistics
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveen17122000&show_icons=true&theme=tokyonight)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Naveen17122000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen17122000&layout=compact&theme=tokyonight)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen17122000&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Naveen17122000&theme=tokyonight&hide_border=true" />
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Naveen17122000&theme=tokyonight)
 
 <br/>
 
