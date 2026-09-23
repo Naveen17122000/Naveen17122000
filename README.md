@@ -13,12 +13,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naveen17122000)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://naveenthodimela.netlify.app)
 
-<img src="https://komarev.com/ghpvc/?username=Naveen17122000&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS" alt="profile views"/>
+
 
 </div>
 
 <br/>
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 
 ## 🧑‍💻 &nbsp;About Me
@@ -183,5 +183,7 @@ Cloud    Microsoft Azure
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:0F172A&height=100&section=footer" width="100%"/>
 
+<img src="https://komarev.com/ghpvc/?username=Naveen17122000&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS" alt="profile views"/>
 </div>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+
