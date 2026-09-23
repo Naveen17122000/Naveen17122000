@@ -19,7 +19,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 
 ## 🧑‍💻 &nbsp;About Me
 
@@ -184,3 +184,4 @@ Cloud    Microsoft Azure
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
