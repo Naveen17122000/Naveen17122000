@@ -179,11 +179,13 @@ Cloud    Microsoft Azure
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveent8391@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://naveenthodimela.netlify.app)
 
+<img src="https://komarev.com/ghpvc/?username=Naveen17122000&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS" alt="profile views"/>
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:0F172A&height=100&section=footer" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=Naveen17122000&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS" alt="profile views"/>
+
 </div>
 
 
