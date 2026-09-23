@@ -114,7 +114,9 @@
 - 🧱 Building production-ready, cloud-deployed REST APIs
 
 ---
+<div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=Naveen17122000&color=blue&style=flat-square)
 
 *"Build systems that scale, write code that lasts."*
+</div>
