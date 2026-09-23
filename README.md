@@ -99,9 +99,7 @@
 | Certificate                   | Issuer                    | Year |
 | ------------------------------ | ------------------------- | ---- |
 | Generative AI                  | Growth School              | 2025 |
-| Python Full Stack Development  | V Cube Software Solutions  | 2024 |
-| Data Analytics Job Simulation  | Tata Group                 | 2025 |
-| Cybersecurity Job Simulation   | Deloitte Australia         | 2025 |
+
 
 ---
 
@@ -117,15 +115,3 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Naveen17122000&color=blue&style=flat-square)
 
 *"Build systems that scale, write code that lasts."*
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="Footer Animation" />
-
-### 💻 Code • Build • Improve • Repeat
-
-<i>"Build systems that scale, write code that lasts."</i>
-
-</div>
