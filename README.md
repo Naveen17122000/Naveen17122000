@@ -1,139 +1,122 @@
-<div align="center">
+# Hi, I'm Naveen Thodimela 👋
 
-# 👋 Hi, I'm Naveen Kumar T
+**Full Stack Developer · Python · Django REST Framework · React.js · MySQL · Azure**
+*Building production-grade web applications with clean architecture, secure APIs, and cloud deployment*
 
-### 💻 Full Stack Python Developer
-
-**Python · Django · Django REST Framework · React.js · MySQL**
-
-<p>
-  <i>Building secure, scalable and production-ready web applications.</i>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Naveen17122000&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Python+Developer;Django+%7C+DRF+%7C+React.js+%7C+MySQL;Building+Secure+REST+APIs;Designing+Scalable+Web+Applications;Always+Learning+%26+Improving" alt="Typing Animation" />
-</p>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveenthodimela/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveent8391@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naveen17122000)
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 💼 **Software Developer** at VisionQuest Solutions Private Limited, Bangalore · Jul 2023 – Present
-* 🎓 **MCA**, JKC College, Guntur, Andhra Pradesh · 2021 – 2023
-* 🔧 **3 years** of experience with Python, Django, Django REST Framework, React.js, and MySQL
-* 🔐 Experienced in **JWT Authentication** and **Role-Based Access Control (RBAC)**
-* 🔁 Full **SDLC** experience across requirements, development, testing, deployment, and maintenance
-* 🤝 Experienced with **Agile Scrum**, sprint planning, code reviews, and production support
-* 🏆 **Generative AI Certified** — Growth School · 2025
+- 💼 **Software Developer** at **VisionQuest Solutions Private Limited, Bangalore** — building REST APIs, JWT authentication, and RBAC systems, deployed to **Azure App Service** with **GitHub Actions CI/CD**
+- 🎓 MCA Graduate from **JKC College**, Andhra Pradesh (2023)
+- 🔧 3+ years designing, developing, testing, and supporting web apps with **Python, Django, DRF, React.js, MySQL, and Azure**
+- ☁️ Hands-on with **Azure SQL Database**, **Azure App Service** deployment, and automated **GitHub Actions CI/CD** pipelines
+- 🌱 Currently exploring **Generative AI**, LangChain, and AI-integrated backend systems
+- 🏆 Certified in **Generative AI** (Growth School), Python Full Stack, Data Analytics (Tata), Cybersecurity (Deloitte)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### 🐍 Backend
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-FF1709?style=flat-square&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django" alt="Python Django" />
-</p>
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Azure SQL](https://img.shields.io/badge/Azure_SQL_Database-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-### ⚛️ Frontend
+### Tools & AI
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![GenAI](https://img.shields.io/badge/Generative_AI-FF4B4B?style=flat-square&logo=openai&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" alt="React JavaScript HTML CSS" />
-</p>
+---
 
-### 🗄️ Database
+## 💼 Professional Experience
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-</p>
+**Software Developer — Python Full Stack** · VisionQuest Solutions Private Limited, Bangalore · *Jul 2023 – Present*
 
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Git GitHub Postman VS Code" />
-</p>
+- Built REST APIs (Django REST Framework) for a **Hospital Management System** — patient registration, appointment scheduling, doctor management, and billing — integrated with a React.js front end
+- Built REST APIs for a **CRM platform** covering lead assignment, follow-up tracking, and sales pipeline management for Admin, Sales Manager, and Sales Executive roles
+- Secured both systems with **JWT authentication** and **role-based access control (RBAC)**
+- Designed schemas and optimized queries on **Azure SQL Database** and **MySQL** via Django ORM
+- Deployed Django applications to **Azure App Service**, connected to Azure SQL Database
+- Configured and maintained **GitHub Actions CI/CD** pipelines — dependency install, automated validation/tests, deployment, and workflow troubleshooting
+- Tested and debugged APIs with **Postman**; collaborated with QA, business analysts, and UI/UX in **Agile Scrum**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 Hospital Management System
+### 💼 [Service Request & Project Management Portal](https://github.com/Naveen17122000/service-app.git)
+> A full-stack portal for employees to raise and track service requests, with an admin approval workflow and role-based dashboards for Admin, Manager, and Employee users.
 
-A full-stack healthcare management platform covering patient registration, appointment scheduling, doctor management, and billing.
+```
+-  10+ DRF API endpoints for the full request-and-approval workflow
+-  JWT authentication and RBAC enforced via Django permission classes
+-  MySQL schema designed with ORM-based queries — filter(), Q objects, select_related()
+-  Role-based dashboards distinguishing Admin, Manager, and Employee views
+```
+**Tech:** Django REST · React.js · JWT · RBAC · MySQL
 
-**Key Features**
+### 💼 [Job Portal Web Application](https://github.com/Naveen17122000/job-portal)
+> Full-stack job platform with **React.js frontend**, **Django REST Framework backend**, **MySQL database**, and **JWT authentication**
 
-* 🔹 REST APIs for patient registration, scheduling, doctors, and billing
-* 🔐 JWT Authentication and RBAC
-* 🗄️ MySQL database design and Django ORM
-* ⚡ Optimized database queries
-* ⚛️ Reusable React.js components
-* 🔗 Axios-based frontend/backend integration
+- Role-based access control (Employer vs Job Seeker)
+- Job listing CRUD with filtering, search, and pagination
+- Complete application lifecycle management
+- Protected API endpoints with custom DRF permissions
 
-**Technologies**
-
-`Python` `Django` `Django REST Framework` `React.js` `MySQL` `JWT` `RBAC` `Axios`
-
----
-
-### 📊 CRM Application
-
-Customer relationship management platform for managing customers, leads, contacts, and sales opportunities.
-
-**Key Features**
-
-* 🔹 Customer and contact management
-* 🔹 Lead and opportunity tracking
-* 🔐 Role-based access for Admin, Sales Manager, and Sales Executive
-* 🗄️ MySQL schema design
-* ⚡ Django ORM query optimization
-* 📈 Sales pipeline and performance dashboards
-
-**Technologies**
-
-`Python` `Django REST Framework` `React.js` `MySQL` `JWT` `RBAC` `Axios`
+**Tech:** Python · Django · DRF · React.js · MySQL · JWT · Axios
 
 ---
 
-## 📊 GitHub Activity
+### 🏥 [Blockchain Smart Health Consulting System](https://github.com/Naveen17122000/smart-health-consulting)
+> Healthcare platform using **blockchain for immutable health record storage** with a Django REST API middleware layer
 
-<div align="center">
+- Patient health records stored as blockchain transactions (tamper-proof)
+- Web3.py integration with Ethereum smart contracts (Solidity)
+- Role-based dashboards for Patient, Doctor, and Admin
+- Blockchain hash verification for data integrity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen17122000&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+**Tech:** Python · Django · Web3.py · Solidity · MySQL · Ethereum
 
-</div>
+---
+
+## 📊 GitHub Status
+
+![](https://github-readme-stats.vercel.app/api?username=Naveen17122000&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen17122000&layout=compact&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Naveen17122000&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📜 Certifications
 
-| Certificate      | Issuer        | Year |
-| ---------------- | ------------- | ---: |
-| 🏆 Generative AI | Growth School | 2025 |
+| Certificate                   | Issuer                    | Year |
+| ------------------------------ | ------------------------- | ---- |
+| Generative AI                  | Growth School              | 2025 |
+| Python Full Stack Development  | V Cube Software Solutions  | 2024 |
+| Data Analytics Job Simulation  | Tata Group                 | 2025 |
+| Cybersecurity Job Simulation   | Deloitte Australia         | 2025 |
 
 ---
 
-## 🤝 Connect With Me
+## 💡 What I'm Working On
 
-<div align="center">
+- ☁️ Deepening hands-on experience with Azure cloud deployments and CI/CD automation
+- 📚 Solving DSA problems daily (Python)
+- 🤖 Learning LangChain and Generative AI integration with Django
+- 🧱 Building production-ready, cloud-deployed REST APIs
 
-<a href="https://github.com/Naveen17122000">
-<img src="https://img.shields.io/badge/GitHub-Naveen17122000-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+---
 
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=Naveen17122000&color=blue&style=flat-square)
+
+*"Build systems that scale, write code that lasts."*
 
 ---
 
