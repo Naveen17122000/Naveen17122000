@@ -65,3 +65,67 @@
         - Role-based dashboards distinguishing Admin, Manager, and Employee views
       
      - **Tech:** Django REST · React.js · JWT · RBAC · MySQL
+
+
+### 💼 [Job Portal Web Application](https://github.com/Naveen17122000/job-portal)
+> Full-stack job platform with **React.js frontend**, **Django REST Framework backend**, **MySQL database**, and **JWT authentication**
+
+- Role-based access control (Employer vs Job Seeker)
+- Job listing CRUD with filtering, search, and pagination
+- Complete application lifecycle management
+- Protected API endpoints with custom DRF permissions
+- **Tech:** Python · Django · DRF · React.js · MySQL · JWT · Axios
+
+---
+
+### 🏥 [Blockchain Smart Health Consulting System](https://github.com/Naveen17122000/smart-health-consulting)
+> Healthcare platform using **blockchain for immutable health record storage** with a Django REST API middleware layer
+
+- Patient health records stored as blockchain transactions (tamper-proof)
+- Web3.py integration with Ethereum smart contracts (Solidity)
+- Role-based dashboards for Patient, Doctor, and Admin
+- Blockchain hash verification for data integrity
+- **Tech:** Python · Django · Web3.py · Solidity · MySQL · Ethereum
+
+---
+
+## 📊 GitHub Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveen17122000&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen17122000&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen17122000&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+---
+
+## 📜 Certifications
+
+| Certificate | Issuer | Year |
+|---|---|---|
+| Python Full Stack Development | V Cube Software Solutions | 2024 |
+| Generative AI | Growth School | 2025 |
+| Data Analytics Job Simulation | Tata Group | 2025 |
+| Cybersecurity Job Simulation | Deloitte Australia | 2025 |
+
+---
+
+## 💡 What I'm Working On
+
+- 🔨 Deploying my Job Portal with live demo
+- 📚 Solving DSA problems daily (Python)
+- 🤖 Learning LangChain and Generative AI integration with Django
+- 🧱 Building production-ready REST APIs
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Naveen17122000&color=blue&style=flat-square" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <i>"Build systems that scale, write code that lasts."</i>
+</p>
