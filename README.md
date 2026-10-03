@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Naveen Thodimela 👋</h1>
+<h1 align="center">Hi, I'm Naveen Kumar 👋</h1>
 
 <p align="center">
   <b>Full Stack Developer · Python · Django REST Framework · React.js · MySQL</b><br/>
